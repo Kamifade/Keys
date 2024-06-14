@@ -1,0 +1,5 @@
+getgenv().GymKey = "KamiScriptsOnTop!"
+getgenv().PMKey = "PMSUCKS"
+getgenv().PetSimKey = "ILOVEPETS"
+getgenv().AOTKey = "THISGAMEISBUGGY!"
+getgenv().DemonfallKey = "DemonFallProg"
